@@ -1,4 +1,4 @@
-![Descrizione immagine](cs0bGr_Y_1736176340396_raw.jpg)
+![](image_cs0bGr_Y_1736176340396_raw.jpg)
 # Copilot
 The Ship's Helper! is an AI-powered project management tool designed to assist in streamlining the management of projects through intuitive HTML interfaces. Created for the GitHub Copilot contest on Devpost, this project leverages the power of AI to help teams stay organized, track progress, and optimize workflows.
 
