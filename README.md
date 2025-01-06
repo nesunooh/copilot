@@ -1,2 +1,2 @@
-# copilot
+# Copilot
 The ship's helper!
